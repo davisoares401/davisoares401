@@ -1,7 +1,11 @@
 ##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davisoares401&show_icons=true&theme=cobalt&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davisoares401&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisoares401&layout=compact&count_private=true&theme=cobalt"/>
+    
+</div>
+  
 
 ##
 <!--
